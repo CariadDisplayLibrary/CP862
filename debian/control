@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP862.h
-Description: CP862 (VGA Code Page 862) font for DisplayCore
+Description: CP862 (VGA Code Page 862)
